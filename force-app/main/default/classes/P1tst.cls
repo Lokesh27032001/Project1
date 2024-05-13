@@ -1,5 +1,5 @@
 public with sharing class P1tst {
     public P1tst() {
-        System.debug('hello');
+        System.debug('hello world');
     }
 }
